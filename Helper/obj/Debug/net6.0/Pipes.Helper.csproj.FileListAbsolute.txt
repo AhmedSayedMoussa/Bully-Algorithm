@@ -1,0 +1,12 @@
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\bin\Debug\net6.0\Pipes.Helper.deps.json
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\bin\Debug\net6.0\Pipes.Helper.dll
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\bin\Debug\net6.0\Pipes.Helper.pdb
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.csproj.AssemblyReference.cache
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.AssemblyInfo.cs
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.dll
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\refint\Pipes.Helper.dll
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\Pipes.Helper.pdb
+C:\Users\Ahmed.Sayed\source\repos\BullyAlgorithm\Pipes.Helper\obj\Debug\net6.0\ref\Pipes.Helper.dll
